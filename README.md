@@ -33,7 +33,7 @@ https://github.com/DaKaZ/esp8266-restclient
 
 https://github.com/adafruit/Adafruit_BME280_Library
 
-Load the reading.ico sketch onto your board ( i need to upload this)
+Compile and upload the wx5.ino sketch onto your board, after editing it to reflect your wifi access point SSID and password.
 
 This sketch connects to a wifi access point, and then makes GET calls to a web server running PHP. The URL is calls contains the readings in a key=value format. The temperature (inTemp) is in Farenheit, the pressure (pressure) in millibars, and the humidity (inHumidity) in %RH.
 
