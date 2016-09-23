@@ -39,7 +39,7 @@ signed long int t_fine;
     
 delay(200);
 const char* ssid     = "Upstairs";
-const char* password = "PraiseB@nd";
+const char* password = "xxxxxxxxx";
   delay(10);
 
   // We start by connecting to a WiFi network
