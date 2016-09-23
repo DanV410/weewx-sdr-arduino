@@ -11,6 +11,14 @@ Solderless breadboard and jumper wires - $6 on Amazon if you don't already have 
 
 Architecture:
 
+Install weewx on your device of choice. Plug in the RTLSDR dongle and connect an antenna. Install the SDR driver as detailed here: (making sure to do the Sensor Mapping in weewx.conf)
+
+https://github.com/matthewwall/weewx-sdr
+
+This should get you all of the information from the Acurite ourdoor unit into weewx.
+
+To get the data that normally comes from the Acurite indoor console, we can use a cheap sensor and Arduino-compatible wifi-enabled microcontroller (the NodeMCU).
+
 Load Arduino firmware onto the NodeMCU. I followed the directions here:
 
 http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
