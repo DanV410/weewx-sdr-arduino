@@ -4,9 +4,13 @@ Sketch, PHP, and Weewx service to use SDR Driver and this service to replace Acu
 Parts you need:
 
 BME280 - Pressure Temperature Humidity sensor. I used the DiyMall breakout board available on Amazon for $10.
+
 HiLetgo New Version NodeMCU LUA WiFi Internet ESP8266 Development - $9 on Amazon
+
 NooElec NESDR Nano 2 - Tiny Black RTL-SDR USB Set (RTL2832U + R820T2) $20 on Amazon
+
 Micro USB cable and phone charger - You probably have an extra at this point
+
 Solderless breadboard and jumper wires - $6 on Amazon if you don't already have one
 
 Architecture:
