@@ -18,6 +18,7 @@ http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
 Grab these librarys and install them:
 
 https://github.com/DaKaZ/esp8266-restclient
+
 https://github.com/adafruit/Adafruit_BME280_Library
 
 Load the reading.ico sketch onto your board ( i need to upload this)
