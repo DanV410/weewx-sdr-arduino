@@ -8,9 +8,9 @@
 # This driver will read data from a file.  Each line of the file is a 
 # name=value pair, for example:
 #
-# temperature=50
-# humidity=54
-# in_temperature=75
+# inTemp=50
+# pressure=1009.4
+# inHumidity=75
 #
 # The names must match the weewx database schema, but the schema can be extended for new fields
 #
