@@ -29,9 +29,9 @@ http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
 
 Grab these librarys and install them:
 
-https://github.com/DaKaZ/esp8266-restclient
+https://github.com/CanTireInnovations/esp8266-arduino-rest-client
 
-https://github.com/adafruit/Adafruit_BME280_Library
+https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
 
 Compile and upload the wx5.ino sketch onto your board, after editing it to reflect your wifi access point SSID and password.
 
